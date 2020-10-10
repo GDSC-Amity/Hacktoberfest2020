@@ -5,7 +5,7 @@ _tkinter_ is a python library that uses tcl to make simple GUIs.
 
 ### This contains:
 - [x] CalculatorGUI
-- [] ImageViewer
+- [x] ImageViewer
 - [] WeatherApp
 - [x] SimpleDatabaseGUI
 
