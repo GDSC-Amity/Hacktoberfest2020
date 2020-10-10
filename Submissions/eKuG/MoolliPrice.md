@@ -1,0 +1,1 @@
+Mooli == 20Rs/kg
