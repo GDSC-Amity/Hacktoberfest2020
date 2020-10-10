@@ -30,3 +30,7 @@
 #### Please make sure that you attend both the sessions on the 10th of October to complete this activity
 
 #### For further details, please visit the `#hacktoberfest-start-here` channel in our [Discord server](https://bit.ly/dsc-amity-discord)
+
+## Resources
+
+### [Microsoft Learn Path](https://docs.microsoft.com/en-us/learn/paths/build-community-driven-projects-github/)
