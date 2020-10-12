@@ -1,0 +1,43 @@
+body {
+    font-family: helvetica;
+    background-color: cornsilk;
+}
+  
+ol {
+    font-family: monospace;
+}
+li {
+    list-style: circle;
+}
+  
+.list {
+    list-style: square;
+    color: midnightblue;
+}
+
+.done {
+    list-style: square;
+    color: olivedrab;
+    text-decoration: line-through;
+
+}
+
+#heading {
+    color: darkslategrey;
+    text-emphasis: emphasis;
+    text-decoration: underline;
+}
+
+#date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#time {
+    font-size: 11px;
+    font-style: italic;
+    font-weight: normal;
+}
+  
+  
