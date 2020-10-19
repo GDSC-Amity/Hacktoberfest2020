@@ -1,0 +1,25 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+  background-color: #7e9a9a;
+}
+h1 {
+  color: #f6d8ac;
+}
+.random{
+  text-align: left;
+  width: 48vw;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+.cropimg {
+
+position: absolute;
+
+clip: rect(0px,50px,100px,50px);
+
+}
