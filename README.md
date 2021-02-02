@@ -1,3 +1,7 @@
+### Note: The repository is now archived and read-only
+
+---
+
 # DSC Amity University: Hacktoberfest 2020
 
 ## Pre-requisites
